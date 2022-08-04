@@ -12,7 +12,7 @@ git add .
 
 git commit -m "Added code to repo"
 
-git remote add origin https://github.com/Aaditya-raj/DemoToPush.git
+git remote add origin https://github.com/Aaditya-raj/naamu.git
 
 git push -u origin master
 
