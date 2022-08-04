@@ -6,14 +6,14 @@ echo.
 set /p name=Enter your name  
 echo Hello %name%
 
-git clone https://wissencloudcoe@dev.azure.com/wissencloudcoe/AzureCloudCoE/_git/AzureCloudCoE -b development
+git clone https://wissencloudcoe@dev.azure.com/wissencloudcoe/AzureCloudCoE/_git/AzureCloudCoE -b development cd
 
 git add .
 
 git commit -m "Added code to new repo"
 
-git remote add origin https://github.com/Aaditya-raj/naamu.git
+git remote add origin https://github.com/Aaditya-raj/demoAdd.git
 
-git push -u origin main
+git push -u origin master
 
 pause
