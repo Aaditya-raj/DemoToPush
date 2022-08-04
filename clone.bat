@@ -10,10 +10,10 @@ git clone https://wissencloudcoe@dev.azure.com/wissencloudcoe/AzureCloudCoE/_git
 
 git add .
 
-git commit -m "Added code to repo"
+git commit -m "Added code to new repo"
 
 git remote add origin https://github.com/Aaditya-raj/naamu.git
 
-git push -u origin master
+git push -u origin main
 
 pause
